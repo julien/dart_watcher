@@ -1,0 +1,7 @@
+name: dart_watcher
+
+description:
+  A .dart file watcher
+
+dependencies:
+  unittest: any
